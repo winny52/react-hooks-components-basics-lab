@@ -16,7 +16,13 @@ function Home() {
   );
 }
 
-{/* write an <About> component here */}
+{/* write an <About> component here */
+function About (){
+  <div id="about">
+    <h2>About</h2>
+  </div>
+}
+}
 
 
 function App() {
